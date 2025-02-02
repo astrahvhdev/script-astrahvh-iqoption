@@ -12,6 +12,8 @@ O script analisa o mercado e gera **sinais visuais** para compra e venda com bas
 
 Os sinais são gerados **automaticamente** e exibidos diretamente no gráfico, facilitando a tomada de decisões.
 
+⚠️ **Aviso:** Este script **foi testado apenas em contas demo por enquanto**. Utilize com cautela antes de aplicar em contas reais.
+
 ---
 
 ## 📌 **Recursos do Indicador**
@@ -47,5 +49,7 @@ Este script é ideal para **traders que buscam sinais precisos e automatizados**
 1. **Copie o código do script** e adicione à sua plataforma de trading.  
 2. **Configure os indicadores** conforme sua estratégia.  
 3. **Acompanhe os sinais** no gráfico e entre nas operações.  
+
+📩 **Suporte & Dúvidas:** Entre em contato pelo **Telegram: [@astrahvhdev](https://t.me/astrahvhdev)**.  
 
 Boa sorte e bons trades! 🚀📈
